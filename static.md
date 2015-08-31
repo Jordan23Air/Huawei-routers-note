@@ -6,6 +6,10 @@
 2. 直连路由
 3. 动态路由 RIP OSPF IS-IS BGP 等
 
+
+
+
+
 ## 路由表和FIB表
 路由器转发过程中的两张表 Routing Taible、Forwarding Information Base。
 
